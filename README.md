@@ -14,3 +14,4 @@ contract OwnerOnly {
         owner = _newOwner;
     }
 }
+Add new function
