@@ -15,3 +15,4 @@ contract OwnerOnly {
     }
 }
 Add new function
+Add comments for clarity
