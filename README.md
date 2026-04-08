@@ -17,3 +17,4 @@ contract OwnerOnly {
 Add new function
 Add comments for clarity
 Improve naming consistency
+Remove debug code
