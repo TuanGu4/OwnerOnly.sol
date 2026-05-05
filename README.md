@@ -20,3 +20,4 @@ Improve naming consistency
 Remove debug code
 Adjust constructor logic
 Remove unused imports
+Improve error messages
